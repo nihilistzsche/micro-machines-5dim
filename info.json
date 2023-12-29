@@ -1,0 +1,9 @@
+{
+	"name": "micro-machines-5dim",
+	"author": "nihilistzsche",
+	"version": "1.0.0",
+	"title": "Micro Machines support for 5dims",
+	"description": "Micro miniature versions of assemblers, electric furnaces, etc. Full integration with all of Bobs mods and ShinyBobGFX, Mini Machines, Factorio Extended Plus, Gotlag's Electric Furnaces, AAI Industry, Krastorio, Industrial Revolution, and Fantario. (independently, not necessarily simultaneously)",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 0.18.27", "stdlib", "micro-machines", "? mini-machines", "? 5dim_automation", "? 5dim_automation", "? 5dim_resources", "? 5dim_ming", "? 5dim_battlefield", "? 5dim_module"]
+}
